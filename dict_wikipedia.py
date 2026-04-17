@@ -1,4 +1,3 @@
-import wikipedia
 import re, time
 from typing import List
 
